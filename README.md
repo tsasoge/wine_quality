@@ -25,8 +25,8 @@ Output variable (based on sensory data):
 Which quality is wine have?
 
 ## Model
- -RandomForestClassifier(max_depth=2, random_state=1234)
- -SVC(decision_function_shape="ovo")
+ - RandomForestClassifier(max_depth=2, random_state=1234)
+ - SVC(decision_function_shape="ovo")
 
 ## Results model
 SVC
