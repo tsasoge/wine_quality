@@ -17,11 +17,11 @@ Input variables (based on physicochemical tests):
 10. sulphates 
 11. alcohol 
 Output variable (based on sensory data): 
-12. quality (score between 0 and 10
+12. quality (score between 0 and 10)
 
 
 ## Classification
-
+Which quality is wine have?
 
 ## Model
  -RandomForestClassifier(max_depth=2, random_state=1234)
