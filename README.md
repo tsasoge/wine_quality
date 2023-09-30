@@ -1,7 +1,7 @@
 # wine_quality
 
 
-#Attribute Information:
+## Attribute Information:
 
 For more information, read [Cortez et al., 2009]. 
 Input variables (based on physicochemical tests): 
@@ -20,10 +20,10 @@ Output variable (based on sensory data):
 12. quality (score between 0 and 10
 
 
-#Classification
+## Classification
 
 
-#Model
+## Model
  -RandomForestClassifier(max_depth=2, random_state=1234)
 
  
